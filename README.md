@@ -1,11 +1,5 @@
 # Natural-Language-Processing-In-Action
  <파이썬으로 배우는 자연어 처리 인 액션> 스터디
- 
- 다음의 책으로 NLP를 공부한 기록입니다. 
- 
- <br>
- 
- ![image](https://user-images.githubusercontent.com/76995436/122673832-3923fe00-d20d-11eb-88ec-2e0875d54ff3.png)
 
 
 <br>
