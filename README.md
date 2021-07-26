@@ -26,4 +26,4 @@
 
 - [CHAPTER 12](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter12.%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8.ipynb) 트랜스포머
 
-- [CHAPTER 13](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter13.%20Bert.ipynb) Bert
+- [CHAPTER 13](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter13.%20Bert.ipynb) BERT
