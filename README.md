@@ -16,16 +16,16 @@
 
 - [CHAPTER 8](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter8.%20%EC%88%9C%ED%99%98%20%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb) 돌고 도는 신경망: 순환 신경망
 
-- [CHAPTER 9](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter9.%20LSTM.ipynb) 장단기 기억망(LSTM 망)을 이용한 기억 유지 개선
+- [CHAPTER 9](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter9.%20LSTM.ipynb) LSTM을 이용한 기억 유지 개선
 
-- [CHAPTER 10](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter10.%20seq2seq%EB%AA%A8%ED%98%95%EA%B3%BC%20%EC%A3%BC%EC%9D%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.ipynb) 순차열 대 순차열 모형과 주의 메커니즘
+- [CHAPTER 10](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter10.%20seq2seq%EB%AA%A8%ED%98%95%EA%B3%BC%20%EC%A3%BC%EC%9D%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.ipynb) Seq2seq 모형과 Attention Mechanism
 
 <Br>
  
 다음은 위키독스 딥 러닝을 이용한 자연어 처리 입문을 참고하여 공부
 
-- [CHAPTER 11](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter11.%20%EC%96%B4%ED%85%90%EC%85%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.ipynb) 어텐션 메커니즘
+- [CHAPTER 11](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter11.%20%EC%96%B4%ED%85%90%EC%85%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98.ipynb) Attention Mechanism
 
-- [CHAPTER 12](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter12.%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8.ipynb) 트랜스포머
+- [CHAPTER 12](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter12.%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8.ipynb) Transformer
 
 - [CHAPTER 13](https://github.com/jaeeun49/Natural-Language-Processing-In-Action-study/blob/main/Chapter13.%20Bert.ipynb) BERT
